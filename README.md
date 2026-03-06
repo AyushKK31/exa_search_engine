@@ -3,9 +3,10 @@
 A Python-based AI-powered search engine using Exa API.
 
 ## Features
-- Semantic web search
-- Top 5 intelligent search results
-- Simple CLI interface
+- AI semantic search
+- Search summaries
+- Domain-based filtering
+- Streamlit web UI
 
 ## Tech Stack
 - Python
