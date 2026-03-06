@@ -30,7 +30,7 @@ A modern AI-powered semantic search engine built using **Exa API** and **Streaml
 
 
 
-(screenshot.png)
+screenshot.png
 
 
 ---
