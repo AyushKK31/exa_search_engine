@@ -30,9 +30,9 @@ A modern AI-powered semantic search engine built using **Exa API** and **Streaml
 
 > Add your screenshot file in the repository as **screenshot.png**
 
-```markdown
-![App Screenshot](screenshot.png)
-```
+
+[App Screenshot](screenshot.png)
+
 
 ---
 
