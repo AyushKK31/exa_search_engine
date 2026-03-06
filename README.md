@@ -28,10 +28,9 @@ A modern AI-powered semantic search engine built using **Exa API** and **Streaml
 
 ## 🖥️ Preview
 
-> Add your screenshot file in the repository as **screenshot.png**
 
 
-[App Screenshot](screenshot.png)
+(screenshot.png)
 
 
 ---
